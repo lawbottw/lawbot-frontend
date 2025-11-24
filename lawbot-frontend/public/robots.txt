@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /c/
+Disallow: /d/
+Disallow: /share/
+Allow: /project
+Disallow: /project/
